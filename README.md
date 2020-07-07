@@ -1,2 +1,2 @@
 # phaser-examples
-Examples with Phaser
+Examples with [Phaser](https://www.phaser.io) for web games in JS.
